@@ -1,2 +1,2 @@
 # TicTacToeConsole
-Tic Tac Toe game for 2 players in local host using console
+Игра Крестики-нолики для двух игроков по локальной сети (в консоли)
